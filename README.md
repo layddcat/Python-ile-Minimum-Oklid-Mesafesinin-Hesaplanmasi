@@ -1,1 +1,1 @@
-buraya bakmayın
+Bu proje, Python programlama dilini kullanarak 2D uzaydaki noktalar arasındaki Öklid mesafesini hesaplamayı göstermektedir. Program, verilen bir nokta listesi üzerinden her nokta çifti için Öklid mesafesini hesaplar ve en küçük mesafeyi bulur.
