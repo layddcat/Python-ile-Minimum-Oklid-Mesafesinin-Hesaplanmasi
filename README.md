@@ -1,1 +1,1 @@
-hafta 2 ödev
+buraya bakmayın
