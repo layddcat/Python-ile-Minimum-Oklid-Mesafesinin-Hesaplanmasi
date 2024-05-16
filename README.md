@@ -1,0 +1,1 @@
+hafta 2 ödev
